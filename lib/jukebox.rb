@@ -21,7 +21,7 @@ def play(songs)
      get_song = "Playing #{songs[index]}"
    end
   end
-  get_song
+  puts get_song
 end
 
 def exit_jukebox
